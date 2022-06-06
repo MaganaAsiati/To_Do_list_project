@@ -163,6 +163,7 @@ i {
   display: block;
 }
 
+
 .task-list-container .task.focus .right .fas {
   display: none;
 }
